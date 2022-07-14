@@ -7,7 +7,7 @@
 I'm founder of [Skwren](https://skwren.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-neeliojr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neeliojr)](https://instagram.com/neeliojr)
-[![Twitter Badge](https://img.shields.io/badge/-neeliojr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:twitter.com/neeliojr)](https:twitter.com/neeliojr)
+[![Twitter Badge](https://img.shields.io/badge/-neeliojr-blue?style=flat-square&logo=Twitter&logoColor=white&link=https:twitter.com/neeliojr)](https:twitter.com/neeliojr)
 [![Linkedin Badge](https://img.shields.io/badge/-neeliojr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelio-júnior-349540207/)](https://www.linkedin.com/in/nelio-júnior-349540207)
 [![Gmail Badge](https://img.shields.io/badge/-neeliojr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neeliojr@gmail.com)](mailto:neeliojr@gmail.com)
 
