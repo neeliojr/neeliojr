@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi 👋🏼, I'm Nelio Júnior!</h1>
 <p align = "justify">Back-end programmer and curious.</p>
 
-I'm founder of Skwren [SKWREN](https://skwren.com)
+I'm founder of [Skwren](https://skwren.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-neeliojr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/neeliojr)](https://instagram.com/neeliojr)
 [![Twitter Badge](https://img.shields.io/badge/-neeliojr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:twitter.com/neeliojr)](https:twitter.com/neeliojr)
