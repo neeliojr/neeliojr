@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Hi 👋🏼, I'm Nelio Júnior!</h1>
-<p align = "justify">back-end programmer and curious.</p>
+<p align = "justify">Back-end programmer and curious.</p>
 
 I'm founder of Skwren [SKWREN](https://skwren.com)
 
