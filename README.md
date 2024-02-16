@@ -6,7 +6,7 @@
 Sou fundador da [Skwren](https://skwren.com).
 
 [![Instagram Badge](https://img.shields.io/badge/-nelioalvesjunior-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nelioalvesjunior)](https://instagram.com/nelioalvesjunior)
-[![Twitter Badge](https://img.shields.io/badge/-oilenj-blue?style=flat-square&logo=Twitter&logoColor=white&link=https:twitter.com/oilenj)](https:twitter.com/oilenj)
+[![Twitter Badge](https://img.shields.io/badge/-oilenj-black?style=flat-square&logo=X&logoColor=white&link=https:twitter.com/oilenj)](https://twitter.com/oilenj)
 [![Linkedin Badge](https://img.shields.io/badge/-neeliojr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelio-júnior-349540207/)](https://www.linkedin.com/in/nelio-júnior-349540207)
 [![Gmail Badge](https://img.shields.io/badge/-neeliojr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neeliojr@gmail.com)](mailto:neeliojr@gmail.com)
 
