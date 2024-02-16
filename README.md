@@ -66,3 +66,9 @@ Sou fundador da [Skwren](https://skwren.com).
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
 </div>
+
+
+## ⚡ GitHub Status
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=neeliojr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeliojr&hide=TeX&layout=compact)
